@@ -15,8 +15,7 @@ Printing % symbol with %%
 Usage
 The ft_printf() function is compiled and linked with the static library libftprintf.a. The project can be compiled with the make command. After compilation, you can use sample programs in the test.c file.
 
-c
-Copy code
+
 #include "ft_printf.h"
 
 int main()
