@@ -18,10 +18,11 @@ The ft_printf() function is compiled and linked with the static library libftpri
 
 #include "ft_printf.h"
 
-int main()
-{
+int main(){
+
     ft_printf("Hello, %s!\n", "world");
-    return 0;
+    
+    return 0;  
 }
 
 Contributing
